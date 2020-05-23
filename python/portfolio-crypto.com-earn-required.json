@@ -30,6 +30,56 @@
     "units": 1
   },
   {
+    "coin": "litecoin",
+    "name": "LTC",
+    "units": 5
+  },
+  {
+    "coin": "binancecoin",
+    "name": "BNB",
+    "units": 15
+  },
+  {
+    "coin": "eos",
+    "name": "EOS",
+    "units": 100
+  },
+  {
+    "coin": "tezos",
+    "name": "XTZ",
+    "units": 80
+  },
+  {
+    "coin": "chainlink",
+    "name": "LINK",
+    "units": 50
+  },
+  {
+    "coin": "stellar",
+    "name": "XLM",
+    "units": 3000
+  },
+    {
+    "coin": "cosmos",
+    "name": "ATOM",
+    "units": 80
+  },
+  {
+    "coin": "basic-attention-token",
+    "name": "BAT",
+    "units": 1250
+  },
+  {
+    "coin": "vechain",
+    "name": "VET",
+    "units": 70000
+  },
+  {
+    "coin": "icon",
+    "name": "ICX",
+    "units": 800
+  },
+  {
     "coin": "dai",
     "name": "DAI",
     "units": 250 
