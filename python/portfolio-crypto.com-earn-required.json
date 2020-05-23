@@ -1,0 +1,37 @@
+[
+  {
+    "coin": "bitcoin",
+    "name": "BTC",
+    "units": 0.025
+  },
+  {
+    "coin": "ethereum",
+    "name": "ETH",
+    "units": 1
+  },
+  {
+    "coin": "crypto-com-chain",
+    "name": "CRO",
+    "units": 5000
+  },
+  {
+    "coin": "monaco",
+    "name": "MCO",
+    "units": 50
+  },
+  {
+    "coin": "ripple",
+    "name": "XRP",
+    "units": 1000
+  },
+  {
+    "coin": "bitcoin-cash",
+    "name": "BCH",
+    "units": 1
+  },
+  {
+    "coin": "dai",
+    "name": "DAI",
+    "units": 250 
+  }
+]
